@@ -2,7 +2,8 @@
 <p align="center"><font size="5"><b>SOFTWARE DESIGN DOCUMENT</b></font><br>
 "Aplikasi Ujian Online Di Sman 1 Jatibarang Berbasis Website (Uline)"</p></h1>
 
-<p align="center"><img src="Gambar/POLINDRA.png" width="250" height="250"></p>
+</p><p align="center">  
+<img src="https://lh3.googleusercontent.com/qEHYPVzo0kjd8ikhrCIF4cI_PhR8pmK5vDU14oEp9OPyVT-eA54cVp8C9iyJ8rKDfH8OR1dnT1zv=s300" alt="enter image description here" title="logo">
 
 <br>
 
